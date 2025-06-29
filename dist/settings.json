@@ -1,4 +1,4 @@
 {
-    "block_hotkey": "b",
-    "unblock_hotkey": "x"
+    "block_hotkey": "b+ctrl",
+    "unblock_hotkey": "ctrl+u"
 }
